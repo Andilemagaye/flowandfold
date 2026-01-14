@@ -47,3 +47,105 @@
   </footer>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Shop — Hair & Shawls Boutique</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">Hair & Shawls Boutique</div>
+    <nav class="nav">
+      <a href="index.html">Home</a>
+      <a href="shop.html" class="active">Shop</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <h1>Shop</h1>
+    <div class="grid">
+      <article class="product-card">
+        <img src="images/zulu_shawl.jpg" alt="Zulu Traditional Shawl (Ibhayi)">
+        <h3>Zulu Traditional Shawl (Ibhayi)</h3>
+        <p class="price">R399</p>
+        <p class="desc">Ceremonial wrap symbolizing respect and heritage—lightweight with beadwork accents.</p>
+        <a class="btn" href="contact.html">Enquire</a>
+      </article>
+
+      <article class="product-card">
+        <img src="images/hair_bundle.jpg" alt="Remy Hair Extension Bundle 18-inch">
+        <h3>Remy Hair Bundle — 18&quot; Straight</h3>
+        <p class="price">R599</p>
+        <p class="desc">100% Remy, silky straight, natural finish—ideal for everyday wear.</p>
+        <a class="btn" href="contact.html">Enquire</a>
+      </article>
+
+      <article class="product-card">
+        <img src="images/clip_in.jpg" alt="Clip-in Extensions Set">
+        <h3>Clip-in Extensions Set</h3>
+        <p class="price">R449</p>
+        <p class="desc">Quick volume and length—easy install, heat-friendly fibers.</p>
+        <a class="btn" href="contact.html">Enquire</a>
+      </article>
+
+      <article class="product-card">
+        <img src="images/pashmina_shawl.jpg" alt="Pashmina-style Shawl">
+        <h3>Pashmina-style Shawl</h3>
+        <p class="price">R329</p>
+        <p class="desc">Soft drape with subtle motifs—perfect for formal and casual looks.</p>
+        <a class="btn" href="contact.html">Enquire</a>
+      </article>
+    </div>
+
+    <section class="policy">
+      <h2>Delivery & Returns</h2>
+      <ul>
+        <li><strong>Shipping:</strong> 2–5 business days nationwide, tracked courier.</li>
+        <li><strong>Rates:</strong> Flat R79, free over R1000.</li>
+        <li><strong>Returns:</strong> 7-day return on unused items in original packaging.</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; 2026 Hair & Shawls Boutique</p>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About — Hair & Shawls Boutique</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">Hair & Shawls Boutique</div>
+    <nav class="nav">
+      <a href="index.html">Home</a>
+      <a href="shop.html">Shop</a>
+      <a href="about.html" class="active">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <h1>Our story</h1>
+    <p>Born in Durban, we blend modern beauty with African heritage. Our curated hair extensions deliver confidence, while our Zulu shawls—ibhayi—honor tradition with elegance.</p>
+    <p>We partner with local artisans and trusted suppliers to ensure quality, authenticity, and fair practices.</p>
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; 2026 Hair & Shawls Boutique</p>
+  </footer>
+</body>
+</html>
+
+

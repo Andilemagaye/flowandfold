@@ -148,5 +148,55 @@
   </footer>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact — Hair & Shawls Boutique</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">Hair & Shawls Boutique</div>
+    <nav class="nav">
+      <a href="index.html">Home</a>
+      <a href="shop.html">Shop</a>
+      <a href="about.html">About</a>
+      <a href="contact.html" class="active">Contact</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <h1>Contact Us</h1>
+    <p>We’d love to hear from you! Reach out using the details below:</p>
+
+    <ul class="contact-details">
+      <li><strong>Phone:</strong> +27 82 123 4567</li>
+      <li><strong>Email:</strong> info@hairshawls.co.za</li>
+      <li><strong>Address:</strong> Durban, KwaZulu-Natal, South Africa</li>
+      <li><strong>Hours:</strong> Mon–Sat, 9am–6pm</li>
+    </ul>
+
+    <h2>Send us a message</h2>
+    <form action="mailto:info@hairshawls.co.za" method="post" enctype="text/plain">
+      <label for="name">Name:</label><br>
+      <input type="text" id="name" name="name"><br><br>
+
+      <label for="email">Email:</label><br>
+      <input type="email" id="email" name="email"><br><br>
+
+      <label for="message">Message:</label><br>
+      <textarea id="message" name="message"></textarea><br><br>
+
+      <input type="submit" value="Send">
+    </form>
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; 2026 Hair & Shawls Boutique</p>
+  </footer>
+</body>
+</html>
 
 

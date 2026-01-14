@@ -1,7 +1,7 @@
 # Anita & Assoc. Hair & Shawls
  Hair: Extensions, wigs, and hair care solution
  Shawls: Fashion accessories such as amaBhayi
-<img width="786" height="722" alt="image" src="https://github.com/user-attachments/assets/e9e82383-a77d-432c-bfef-4da0d7fae47a" />
+<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/e9e82383-a77d-432c-bfef-4da0d7fae47a" />
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -152,7 +152,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Contact — Hair & Shawls Boutique</title>
+  Contact — Hair & Shawls Boutique
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="css/style.css">
 </head>
@@ -194,7 +194,7 @@
   </main>
 
   <footer class="site-footer">
-    <p>&copy; 2026 Hair & Shawls Boutique</p>
+    <p>&copy; 2023 Hair & Shawls Boutique</p>
   </footer>
 </body>
 </html>

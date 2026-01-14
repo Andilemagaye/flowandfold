@@ -1,11 +1,12 @@
-# flowandfold
- Hair ( Extensions, wigs, and hair care solution) Shawls ( fashion accessories such as traditional amaBhayi )
+# Anita & Assoc.
+ Hair: Extensions, wigs, and hair care solution
+ Shawls: Fashion accessories such as amaBhayi
 <img width="786" height="722" alt="image" src="https://github.com/user-attachments/assets/e9e82383-a77d-432c-bfef-4da0d7fae47a" />
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Anita M Hair & Shawls Boutique</title>
+  Anita M Hair & Shawls Boutique
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Premium hair extensions and Zulu traditional shawls.">
   <link rel="stylesheet" href="css/style.css">
@@ -23,7 +24,7 @@
 
   <section class="hero">
     <h1>Style rooted in culture</h1>
-    <p>Authentic Zulu shawls—ibhayi—and premium hair extensions for every occasion.</p>
+    <p>Authentic Zulu shawls (ibhayi) and premium hair wigs for every occasion.</p>
     <a class="btn" href="shop.html">Shop now</a>
   </section>
 
@@ -43,7 +44,7 @@
   </section>
 
   <footer class="site-footer">
-    <p>&copy; 2026 Hair & Shawls Boutique</p>
+    <p>&copy; 2023 Hair & Shawls Boutique</p>
   </footer>
 </body>
 </html>

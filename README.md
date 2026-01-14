@@ -5,7 +5,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Hair & Shawls Boutique</title>
+  <title>Anita M Hair & Shawls Boutique</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Premium hair extensions and Zulu traditional shawls.">
   <link rel="stylesheet" href="css/style.css">

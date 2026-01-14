@@ -1,4 +1,4 @@
-# Anita & Assoc.
+# Anita & Assoc. Hair & Shawls
  Hair: Extensions, wigs, and hair care solution
  Shawls: Fashion accessories such as amaBhayi
 <img width="786" height="722" alt="image" src="https://github.com/user-attachments/assets/e9e82383-a77d-432c-bfef-4da0d7fae47a" />
@@ -6,7 +6,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  Anita M Hair & Shawls Boutique
+  Anita M & Assoc. Hair & Shawls Boutique
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Premium hair extensions and Zulu traditional shawls.">
   <link rel="stylesheet" href="css/style.css">
@@ -139,12 +139,12 @@
 
   <main class="container">
     <h1>Our story</h1>
-    <p>Born in Durban, we blend modern beauty with African heritage. Our curated hair extensions deliver confidence, while our Zulu shawls—ibhayi—honor tradition with elegance.</p>
+    <p>Born in Durban, South Africa we blend modern beauty with African heritage. Our curated hair extensions deliver confidence, while our Zulu shawls—amabhayi—honor tradition with elegance.</p>
     <p>We partner with local artisans and trusted suppliers to ensure quality, authenticity, and fair practices.</p>
   </main>
 
   <footer class="site-footer">
-    <p>&copy; 2026 Hair & Shawls Boutique</p>
+    <p>&copy; 2023 Hair & Shawls Boutique</p>
   </footer>
 </body>
 </html>

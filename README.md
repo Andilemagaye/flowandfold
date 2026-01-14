@@ -2,10 +2,9 @@
  Hair: Extensions, wigs, and hair care solution
  Shawls: Fashion accessories such as amaBhayi
 <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/e9e82383-a77d-432c-bfef-4da0d7fae47a" />\
-<img width="300" height_250" alt=image" src="image" src='https://github.com/user-attachments/assets/
 <!DOCTYPE html
-<html lang="en">
-<head>
+<html lang="en"
+<head
   <meta charset="UTF-8">
   Anita M & Assoc. Hair & Shawls Boutique
   <meta name="viewport" content="width=device-width, initial-scale=1">

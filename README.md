@@ -1,5 +1,5 @@
 # Anita & Assoc. Hair & Shawls
- Hair: Extensions, wigs, and hair care solution
+ Hair: Wigs, and hair care solution
  Shawls: Fashion accessories such as amaBhayi
 <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/e9e82383-a77d-432c-bfef-4da0d7fae47a" />\
 <!DOCTYPE html
@@ -38,7 +38,7 @@
       <p>Ceremonial and everyday wraps—crafted with pride and precision.</p>
     </div>
     <div class="feature">
-      <h3>Fast Delivery</h3>
+      <h3>Fast Delivery</h3<
       <p>Nationwide shipping with tracking and clear return policies.</p>
     </div>
   </section>
@@ -52,7 +52,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Shop — Hair & Shawls Boutique</title>
+  Shop — Hair & Shawls Boutique
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="css/style.css">
 </head>
@@ -76,7 +76,7 @@
         <p class="price">R399</p>
         <p class="desc">Ceremonial wrap symbolizing respect and heritage—lightweight with beadwork accents.</p>
         <a class="btn" href="contact.html">Enquire</a>
-      </article>
+      </article> 
 
       <article class="product-card">
         <img src="images/hair_bundle.jpg" alt="Remy Hair Extension Bundle 18-inch">
@@ -114,7 +114,7 @@
   </main>
 
   <footer class="site-footer">
-    <p>&copy; 2026 Hair & Shawls Boutique</p>
+    <p>&copy; 2023 Hair & Shawls Boutique</p>
   </footer>
 </body>
 </html>
@@ -122,18 +122,18 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>About — Hair & Shawls Boutique</title>
+  About — Hair & Shawls Boutique
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
   <header class="site-header">
-    <div class="brand">Hair & Shawls Boutique</div>
+    <div class="brand">Anita & Assoc. Hair & Shawls Boutique</div>
     <nav class="nav">
       <a href="index.html">Home</a>
       <a href="shop.html">Shop</a>
       <a href="about.html" class="active">About</a>
-      <a href="contact.html">Contact</a>
+      <a href="contact.html">Contact a>
     </nav>
   </header>
 

@@ -1,8 +1,7 @@
 # Anita & Assoc. Hair & Shawls
  Hair : Wigs, and hair care solutions.
  Shawls : Fashion accessories such as amaBhayi.
- 
-<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/e9e82383-a77d-432c-bfef-4da0d7fae47a" />\
+<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/e9e82383-a77d-432c-bfef-4da0d7fae47a" />
 
 <!DOCTYPE html
 <html lang="en"
